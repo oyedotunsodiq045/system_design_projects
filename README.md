@@ -1,10 +1,10 @@
 # system design projects
 
-* 📦credit-union
-  - ┗ 📜README.md
-* 📦revie
-  -  ┗ 📜README.md
-* 📦softoverflow
-  -  ┗ 📜README.md
-* 📦starkbank
-  -  ┗ 📜README.md
+* 📦credit-union<br>
+  ┗ 📜README.md
+* 📦revie<br>
+  ┗ 📜README.md
+* 📦softoverflow<br>
+  ┗ 📜README.md
+* 📦starkbank<br>
+  ┗ 📜README.md
