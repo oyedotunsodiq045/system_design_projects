@@ -56,7 +56,7 @@ A welcome message is sent to a new member on completion of his/her registration.
 
 <br><br><br>
 
-# <p style="text-align: center; font-size: 25px;">SHCU Class Diagram</p>
+# <p style="text-align: center; font-size: 25px;">SHCU Models</p>
 
 | USER                   | COMMUNITY            | RECEIPT        | POOL               | PAYMENT            |
 | ---------------------- | ---------------------|----------------| -------------------|--------------------|
@@ -86,3 +86,7 @@ A welcome message is sent to a new member on completion of his/her registration.
 | +updateDetails()       |                      |                |                    |                    |
 | +updatePassword()      |                      |                |                    |                    |
 | +assignCommunity()     |                      |                |                    |                    |
+
+<br><br><br>
+
+# <p style="text-align: center; font-size: 25px;">SHCU Class Diagram</p>
