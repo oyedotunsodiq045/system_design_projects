@@ -1,4 +1,4 @@
-# <p style="text-align: center; font-size: 25px;">Revie (revie)</p>
+# <p style="text-align: center; font-size: 25px;">Revie (Revie)</p>
 
 <br><br><br>
 
