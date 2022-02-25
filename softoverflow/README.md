@@ -48,7 +48,7 @@ You can also say a simple clone of Stackoverflow, but an API. <a href="https://s
 | +logout()     |+askQuestion()   |+answerQuestion() |+rateQuestion()  |
 | +getMe()      |                 |                  |                 |
 | +getUsers()   |                 |                  |                 |
-| +getUsers()   |                 |                  |                 |
+| +getUser()    |                 |                  |                 |
 
 <br><br><br>
 
